@@ -5,3 +5,5 @@ program hello
     print *, 'Bem-vindo ao mundo Fortran, Guilherme!'
     
 end program hello
+
+! Isto é um comentário de linha única
